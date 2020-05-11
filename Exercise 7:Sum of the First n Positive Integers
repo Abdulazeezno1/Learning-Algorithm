@@ -1,0 +1,4 @@
+#input the positive number
+no=int(input('Enter a positive number: '))
+sum=((num)(num+1))/2
+print('The sum of the number is',sum)
